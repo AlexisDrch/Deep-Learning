@@ -1,7 +1,7 @@
+*.npz
 *.log
 *.pyc
 *.pt
 */data/
 *checkpoint*
 */datasets/
-3_convnet_bis/assignment/cs7643/datasets/
